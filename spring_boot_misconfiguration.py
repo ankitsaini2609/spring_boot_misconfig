@@ -66,7 +66,7 @@ def read_file(filename):
 
 def main():
     print("""
-    It will look for the domains which are vulnerable to git misconfiguration.
+    It will look for the domains which are vulnerable to spring boot misconfiguration.
     """)
 
     # Argument Parsing
